@@ -45,6 +45,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/okay"
+            android:textColor="@color/white"
             android:layout_weight="1"
             android:layout_margin="5dp"
             android:backgroundTint="@color/green" />
@@ -53,6 +54,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/cancel"
+            android:textColor="@color/white"
             android:layout_margin="5dp"
             android:layout_weight="1"
             android:backgroundTint="@color/blue_700" />
